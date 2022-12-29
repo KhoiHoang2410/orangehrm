@@ -19,6 +19,12 @@ Start server
 docker-compose up
 ```
 
+Download dumped sql
+
+```url
+https://drive.google.com/file/d/1LLexirkJ4tazNxE0v_kgaAvVzQvZTklC/view?usp=share_link
+```
+
 Import database
 
 ```zsh
